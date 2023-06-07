@@ -5,3 +5,4 @@
 4.Hidden files
 5.i love numbers
 6.welcome
+7.Betty in my first directory
