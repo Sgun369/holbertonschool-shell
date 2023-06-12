@@ -18,3 +18,6 @@ a script that sets the permission to the file hello as follow:
 *owner: no permission at all
 *group: no permission at all
 *other user:all the permissions
+9.John DO:
+a script that sets the mode of the file hello to this:
+-rwxr-x-wh
