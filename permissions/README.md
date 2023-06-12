@@ -8,3 +8,5 @@ a script that prints all the groups the current user is part of
 a script that changes the owner of the file hello to the user betty
 4.Empty:
 a script that crates an empty file called hello
+5.Execute:
+a script that adds execute pemission to the owner of the file hello
