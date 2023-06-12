@@ -24,3 +24,5 @@ a script that sets the mode of the file hello to this:
 10.Look in the mirror:
 a script that sets the mode of the file hello the same as olleh's mode
 
+11.Direcories:
+execute permission to all subdirectories of the current directory fo the owner,the group owner and all other users
