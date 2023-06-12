@@ -8,3 +8,5 @@ a script that displays a onfused smiley.
 display the content of /etc/passwd and /etc/hosts
 4.Last lines of a fie:
 Display the last 10 lines of /etc/passwd
+5.id prefer the first ones actually:
+Display the first 10 lines of /etc/passwd
