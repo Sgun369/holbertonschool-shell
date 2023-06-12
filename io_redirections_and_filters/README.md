@@ -16,3 +16,5 @@ a script that displays the third line of the file iacta
 a script that writes into the file ls_cwd_content the result of the command ls -la
 9.Duplicate las line:
 a script that duplicates the last line of a file iacta
+10.No more javascript:
+a script that deletes all the regular files with a .js extention
