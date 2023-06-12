@@ -21,3 +21,6 @@ a script that sets the permission to the file hello as follow:
 9.John DO:
 a script that sets the mode of the file hello to this:
 -rwxr-x-wh
+10.Look in the mirror:
+a script that sets the mode of the file hello the same as olleh's mode
+
