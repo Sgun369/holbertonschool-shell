@@ -22,3 +22,5 @@ a script that deletes all the regular files with a .js extention
 
 11.Don't just count your directories,make your directories count:
 
+12.What’s new:
+a script that displays the 10 newest files in the current directory
