@@ -20,3 +20,5 @@ a script that duplicates the last line of a file iacta
 a script that deletes all the regular files with a .js extention
 7.it is a good file that cuts iron without making a noise:
 
+11.Don't just count your directories,make your directories count:
+
