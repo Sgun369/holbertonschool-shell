@@ -1,2 +1,2 @@
 0.<o>:
-a script that creates an alias name ls  value rm 
+a script that creates an alias Name ls Value rm * 
