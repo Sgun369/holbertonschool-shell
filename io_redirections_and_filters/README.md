@@ -26,3 +26,5 @@ a script that deletes all the regular files with a .js extention
 a script that displays the 10 newest files in the current directory
 20.Without C,you would live in hiago:
 a script that removes all letters c and C from input
+21.esreveR:
+a script that reverse its input
