@@ -1,2 +1,2 @@
 #!/bin/bash
-read -i | echo  rev
+echo read -i |   rev
