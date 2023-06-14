@@ -24,3 +24,5 @@ a script that deletes all the regular files with a .js extention
 
 12.What’s new:
 a script that displays the 10 newest files in the current directory
+20.Without C,you would live in hiago:
+a script that removes all letters c and C from input
