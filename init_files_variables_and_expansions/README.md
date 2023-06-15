@@ -19,3 +19,5 @@ a script that prints the result of POWER divided by DIVIDE followed by a new lin
 11.there are 10 types of people in the world those who understand binary and those who don't
 12.combination:
 a script that prints all possible combinations of two letters
+13.Floats:
+a script that prints a number with two decimal places followed by a new line
