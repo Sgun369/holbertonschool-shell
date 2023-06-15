@@ -15,3 +15,4 @@ a script that lists environment variables
 a script that prints the result of addition of 128 with the value stored in the environment variable TRUKNOWLEDGE
 9.Divide and rule:
 a script that prints the result of POWER divided by DIVIDE followed by a new line
+10. Love is anterior to life posterior to death initial of creation and exponent of breath
