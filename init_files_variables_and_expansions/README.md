@@ -4,3 +4,4 @@ a script that creates an alias Name ls Value rm *
 a script that printss hello user,where user is the current Linux user
 2.The path to success is to take massive,determined action
 3.if the path be beautiful,let us not ask where it leads
+5.local variables
