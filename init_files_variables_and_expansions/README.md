@@ -7,3 +7,5 @@ a script that printss hello user,where user is the current Linux user
 5.local variables
 6.Local variable:
 a script that creates a new local variable Name Best value School
+7.Global variable:
+a script that creates a new global variable Name Best value School
