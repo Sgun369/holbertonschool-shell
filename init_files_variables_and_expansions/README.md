@@ -16,3 +16,4 @@ a script that prints the result of addition of 128 with the value stored in the 
 9.Divide and rule:
 a script that prints the result of POWER divided by DIVIDE followed by a new line
 10. Love is anterior to life posterior to death initial of creation and exponent of breath
+11.there are 10 types of people in the world those who understand binary and those who don't
